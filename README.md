@@ -15,7 +15,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-<img src='Codepath-iOS-Random-Background-Color/CodepathiOS/Magic Background Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='CodepathiOS/Magic Background Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## App Brainstorming (Step 4)
 
