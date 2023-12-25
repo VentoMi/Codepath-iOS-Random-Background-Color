@@ -29,7 +29,7 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 ## License
 
-    Copyright [2023] [Milton Vento]
+    Copyright 2023 Milton Vento
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
