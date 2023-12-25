@@ -4,7 +4,7 @@ Submitted by: **Milton Vento**
 
 **Name of your app** is an app that changes the background to a random color at the click of a button 
 
-Time spent: **4** hours spent in total
+Time spent: **4.5** hours spent in total
 
 ## Required Features
 
